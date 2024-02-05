@@ -1,0 +1,4 @@
+datetime>=4.3,<4.5
+aiohttp>=3.6.0,<4
+requests>=2.26.0,<3
+json
